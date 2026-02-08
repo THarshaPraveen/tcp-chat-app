@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/harsha/Chatapp/build/cmake_install.cmake",
+		"/home/harsha/Chatapp/build/SocketUtil/cmake_install.cmake",
+		"/home/harsha/Chatapp/build/SocketClient/cmake_install.cmake",
+		"/home/harsha/Chatapp/build/SocketServer/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/socket_server.dir/link.d CMakeFiles/socket_server.dir/main.c.o -o socket_server  ../SocketUtil/libsocketutility.a
